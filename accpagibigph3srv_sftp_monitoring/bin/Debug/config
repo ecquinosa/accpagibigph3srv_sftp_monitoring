@@ -1,0 +1,7 @@
+[
+  {
+    "JsonRepo": "F:\\Projects\\accpagibigph3srv_sftp_monitoring\\accpagibigph3srv_sftp_monitoring\\bin\\Debug\\JSON",
+	"BankDoneFolder": "F:\\PAGIBIG\\ACCPAGIBIGPH3\\UBP\\DONE",
+    "DbaseConStr": "Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;"    
+  }
+]

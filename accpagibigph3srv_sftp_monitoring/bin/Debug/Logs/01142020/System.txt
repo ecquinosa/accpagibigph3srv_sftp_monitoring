@@ -1,0 +1,16 @@
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:35:52 PM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:35:57 PM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:35:57 PM Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#; , Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:35:59 PM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:36:55 PM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:36:55 PM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:36:55 PM Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#; , Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:36:57 PM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:16 PM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:16 PM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:16 PM Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#; , Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:16 PM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:53 PM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:53 PM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:53 PM Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#; , Server=10.88.77.68;Database=LCDB_01;User=allcard;Password=MalboroLights#;
+[accpagibigph3srv_sftp_monitoring.exe] 01/14/2020 02:38:54 PM Init(): Connection to database is success

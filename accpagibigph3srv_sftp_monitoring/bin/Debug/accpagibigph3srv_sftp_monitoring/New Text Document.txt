@@ -1,0 +1,5 @@
+ //capturedData_today.json  --task scheduler daily/ every 20mins
+        //capturedData_weekly.json --task scheduler daily/ every  1am
+        //capturedData_allprevious.json --task scheduler daily/ every  1130pm (merging only of previous and today),task scheduler monthly every first of month/ every  1am (merging only of previous and today)
+        //sftpDtl_today.json --task scheduler daily/ every 20mins
+        //sftpDtl_allprevious.json --task scheduler daily/ every  1130pm (merging only of previous and today)

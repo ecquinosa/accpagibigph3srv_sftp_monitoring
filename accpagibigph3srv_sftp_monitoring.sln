@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accpagibigph3srv_sftp_monitoring", "accpagibigph3srv_sftp_monitoring\accpagibigph3srv_sftp_monitoring.csproj", "{26852893-A775-40E2-8A5C-E94CF6358E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26852893-A775-40E2-8A5C-E94CF6358E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26852893-A775-40E2-8A5C-E94CF6358E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26852893-A775-40E2-8A5C-E94CF6358E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26852893-A775-40E2-8A5C-E94CF6358E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5198505-EB77-4D6E-A400-8C3C4022D558}
+	EndGlobalSection
+EndGlobal

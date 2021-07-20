@@ -1,0 +1,2 @@
+[accpagibigph3srv_sftp_monitoring.exe] 03/02/2020 11:01:15 PM Init(): Connection to database failed. A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+[accpagibigph3srv_sftp_monitoring.exe] 03/02/2020 11:01:22 PM Init(): Connection to database failed. A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)

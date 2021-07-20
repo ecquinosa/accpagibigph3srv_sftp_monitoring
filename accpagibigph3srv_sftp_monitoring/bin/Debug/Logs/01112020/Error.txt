@@ -1,0 +1,7 @@
+[accpagibigph3srv_sftp_monitoring.exe] 01/11/2020 07:54:16 PM Init(): Error reading config file. Runtime catched error Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'accpagibigph3srv_sftp_monitoring.Config' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+[accpagibigph3srv_sftp_monitoring.exe] 01/11/2020 07:54:22 PM Config file is missing
+[accpagibigph3srv_sftp_monitoring.exe] 01/11/2020 07:58:00 PM Init(): Error reading config file. Runtime catched error Bad JSON escape sequence: \W. Path '[0].JsonRepo', line 3, position 21.
+[accpagibigph3srv_sftp_monitoring.exe] 01/11/2020 07:59:49 PM Config file is missing
+[accpagibigph3srv_sftp_monitoring.exe] 01/11/2020 08:12:26 PM Init(): Connection to database failed. The ConnectionString property has not been initialized.

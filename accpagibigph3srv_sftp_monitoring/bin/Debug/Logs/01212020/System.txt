@@ -1,0 +1,20 @@
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:36:52 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:36:52 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:36:53 AM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:36:59 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:36:59 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:01 AM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:07 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:07 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:08 AM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:15 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:15 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:15 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:16 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:17 AM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:27 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:27 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:37:28 AM Init(): Connection to database is success
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:39:01 AM Application started [accpagibigph3srv_sftp_monitoring.exe]
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:39:01 AM Checking config...
+[accpagibigph3srv_sftp_monitoring.exe] 01/21/2020 10:39:02 AM Init(): Connection to database is success
